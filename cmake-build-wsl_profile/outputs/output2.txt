@@ -1,0 +1,10 @@
+Filled container:
+Container contains 8 elements.
+0: It is CIRCLE. Center coordinates: (1, 8), radius: 3. Perimeter = 18.849556; Color: BLUE
+1: It is RECTANGLE. Coordinates of angles: (5, 6), (10, 0). Perimeter = 22.000000; Color: PURPLE
+2: It is TRIANGLE. Coordinates of vertices: (1, 2), (3, 8), (5, 10). Perimeter =  18.097254; Color: RED
+3: It is RECTANGLE. Coordinates of angles: (9, -12), (20, -14). Perimeter = 26.000000; Color: GREEN
+4: It is RECTANGLE. Coordinates of angles: (-1, 2), (3, -4). Perimeter = 20.000000; Color: CYAN
+5: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.530965; Color: ORANGE
+6: It is TRIANGLE. Coordinates of vertices: (1, 2), (3, -4), (5, -6). Perimeter =  18.097254; Color: PURPLE
+7: It is CIRCLE. Center coordinates: (-15, 8), radius: 4. Perimeter = 25.132741; Color: YELLOW

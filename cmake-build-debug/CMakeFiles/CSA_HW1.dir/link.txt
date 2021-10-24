@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CSA_HW1.dir/Sources/main.cpp.o CMakeFiles/CSA_HW1.dir/Sources/container.cpp.o CMakeFiles/CSA_HW1.dir/Sources/triangle.cpp.o CMakeFiles/CSA_HW1.dir/Sources/rectangle.cpp.o CMakeFiles/CSA_HW1.dir/Sources/circle.cpp.o CMakeFiles/CSA_HW1.dir/Sources/shape.cpp.o  -o CSA_HW1 

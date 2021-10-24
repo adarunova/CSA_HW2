@@ -1,0 +1,6 @@
+Container with deleted elements:
+Container contains 4 elements.
+0: It is CIRCLE. Center coordinates: (-48, 93), radius: 49. Perimeter = 307.876080; Color: RED
+1: It is TRIANGLE. Coordinates of vertices: (71, -20), (40, 16), (-95, 98). Perimeter =  409.126812; Color: PURPLE
+2: It is TRIANGLE. Coordinates of vertices: (45, -85), (20, -58), (-79, 23). Perimeter =  329.149211; Color: CYAN
+3: It is TRIANGLE. Coordinates of vertices: (17, -74), (27, 43), (60, 87). Perimeter =  339.069905; Color: YELLOW

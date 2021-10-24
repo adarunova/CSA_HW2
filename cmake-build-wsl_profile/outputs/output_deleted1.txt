@@ -1,0 +1,4 @@
+Container with deleted elements:
+Container contains 2 elements.
+0: It is CIRCLE. Center coordinates: (-93, 53), radius: 97. Perimeter = 609.468975; Color: ORANGE
+1: It is RECTANGLE. Coordinates of angles: (-61, -53), (88, -79). Perimeter = 350.000000; Color: BLUE
